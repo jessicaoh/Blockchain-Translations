@@ -1739,7 +1739,7 @@
          "relayed_by":"播报方"
       }
    },
-   "name":"Chinese Simplified",
+   "name":"Chinese",
    "properties":{
       "extends":"auto_chinese_simple"
    }
