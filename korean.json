@@ -1778,11 +1778,8 @@
       }
    },
    "name":"Korean",
-<<<<<<< HEAD
    "properties":{
       "extends":"auto_korean"
    }
-=======
    "native_name":"조선말"
->>>>>>> fa5689b5fc58e221ce4d1b0e3df4dfda5f0d7f41
 }
